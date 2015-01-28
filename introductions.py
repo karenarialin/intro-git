@@ -5,3 +5,6 @@ def one():
 def yolo():
 	return True
 	print ('nooooo')
+print (yolo)
+
+'HELLLLO I AM A BUNNY'	
