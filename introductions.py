@@ -4,3 +4,4 @@ def one():
 	print ("boooooo")
 def yolo():
 	return True
+	print ('nooooo')
